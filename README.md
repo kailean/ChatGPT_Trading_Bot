@@ -1,4 +1,4 @@
-# ChatGPT_Trading_Bot3
+# ChatGPT_Trading_Bot
 
 This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
 
